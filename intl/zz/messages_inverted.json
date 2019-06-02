@@ -1,0 +1,18 @@
+{
+  "lib/initialize.js": {
+    "15": [
+      "g.f('be74d4e0fce2e8065e3d2e593e63dc86')"
+    ]
+  },
+  "lib/web3-connector.js": {
+    "32": [
+      "g.f('f621c35d499932a19f5138f563e107fb')"
+    ],
+    "36": [
+      "g.f('03f6c748e6b0c55dcc1740579eaa36c4')"
+    ],
+    "43": [
+      "g.f('82f24ff317cbd6081a262efaf7eb19e8')"
+    ]
+  }
+}

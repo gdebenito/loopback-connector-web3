@@ -1,0 +1,6 @@
+{
+  "03f6c748e6b0c55dcc1740579eaa36c4": "{{settings.provider}} must be type of {{string}}. Check {{datasource.json}}",
+  "82f24ff317cbd6081a262efaf7eb19e8": "{{settings.provider}} is \"{0}\"",
+  "be74d4e0fce2e8065e3d2e593e63dc86": "{{dataSource}} must be type of {{object}}",
+  "f621c35d499932a19f5138f563e107fb": "{{settings.provider}} must be specified. Check {{datasource.json}}"
+}
